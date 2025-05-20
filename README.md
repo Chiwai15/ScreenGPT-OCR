@@ -4,7 +4,7 @@
 
 ScreenGPT is a powerful desktop application that combines OCR (Optical Character Recognition), computer vision, and AI to analyze screenshots and provide detailed information about their content. With just a shortcut key, you can capture and analyze any screen content, making it a versatile accessibility and productivity tool.
 
-![ScreenGPT Interface]([https://github.com/Chiwai15/ScreenGPT-OCR/blob/main/assets/screen-gpt-home.jpg])
+![ScreenGPT Interface](assets/screen-gpt-home.jpg)
 
 ## Features
 
